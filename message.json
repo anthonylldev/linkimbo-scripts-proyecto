@@ -1,0 +1,3 @@
+{"_id":{"$oid":"62ae043145150fc327d1792f"},"userEmitterId":"62ae04006edba44c744bb4ff","userReceiverId":"62ae00276edba44c744bb4fb","message":"Hola amigo.","timestamp":1655571505442}
+{"_id":{"$oid":"62ae056f45150fc327d17a8c"},"userEmitterId":"62ae05096edba44c744bb507","userReceiverId":"62ae00276edba44c744bb4fb","message":"Me encanta tu perro.","timestamp":1655571824009}
+{"_id":{"$oid":"62ae062745150fc327d17ce9"},"userEmitterId":"62ae00276edba44c744bb4fb","userReceiverId":"62ae04006edba44c744bb4ff","message":"¿Que tal?","timestamp":1655572008041}
